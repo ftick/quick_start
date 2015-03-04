@@ -75,7 +75,7 @@ public class Interface extends JFrame implements ActionListener
 	{
 		Interface frame  = new Interface( "Quick Start" );
 	    
-   		frame.setSize( 480, 120 );
+   		frame.setSize( 500, 175 );
     	frame.setVisible(true);  
 	}
 }
